@@ -1,4 +1,5 @@
 # fcitx-skin
+包括从网上找和搜狗的皮肤转化来的
 
 #### 使用
 
@@ -22,6 +23,7 @@
 
 **white**
 ![white](https://raw.githubusercontent.com/m77can/fcitx-skin/master/docs/images/white.png)
+
 #### 解决 emoji 不显示
 
 ````bash
