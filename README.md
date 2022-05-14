@@ -7,6 +7,7 @@
 #### 解决 emoji 不显示
 
 ````bash
+# archliux
 sudo pacman -S noto-fonts-emoji
 
 ````
